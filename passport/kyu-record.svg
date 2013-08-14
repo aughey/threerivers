@@ -26,19 +26,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="486.59249"
-     inkscape:cy="414.05727"
+     inkscape:zoom="1.4"
+     inkscape:cx="393.13042"
+     inkscape:cy="342.94925"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      units="in"
-     inkscape:window-width="1141"
-     inkscape:window-height="780"
-     inkscape:window-x="20"
-     inkscape:window-y="20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="true">
     <sodipodi:guide
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -149,23 +149,18 @@
        id="path6629"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 540,495 337.5,0"
-       id="path6631"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 607.5,112.5 0,450"
+       style="fill:none;stroke:#000000;stroke-width:0.699866px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 607.5,112.34993 0,314.9397"
        id="path6633"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 697.5,112.5 0,450"
+       style="fill:none;stroke:#000000;stroke-width:0.699866px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 697.5,112.34993 0,314.9397"
        id="path6635"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 787.5,112.5 0,450"
+       style="fill:none;stroke:#000000;stroke-width:0.699866px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 787.5,112.34993 0,314.9397"
        id="path6637"
        inkscape:connector-curvature="0" />
   </g>
@@ -173,7 +168,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Text"
-     style="opacity:0.5;display:none"
+     style="opacity:0.5;display:inline"
      sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
@@ -190,7 +185,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Contract"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
@@ -260,7 +256,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Watermark"
-     style="opacity:0.12264153;display:none"
+     style="opacity:0.12264153;display:inline"
      sodipodi:insensitive="true">
     <g
        id="g5873">
@@ -6318,62 +6314,32 @@
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-       x="572.88544"
-       y="323.64456"
-       id="text6677"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6679"
-         x="572.88544"
-         y="323.64456">Jun-Nikyu</tspan><tspan
-         sodipodi:role="line"
-         x="572.88544"
-         y="341.14456"
-         id="tspan4977">Pre-2nd</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
        x="573.10242"
-       y="392.33493"
+       y="324.33493"
        id="text6681"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6683"
          x="573.10242"
-         y="392.33493">Nikyu</tspan><tspan
+         y="324.33493">Nikyu</tspan><tspan
          sodipodi:role="line"
          x="573.10242"
-         y="409.83493"
+         y="341.83493"
          id="tspan4983">2nd</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-       x="572.92041"
-       y="458.98471"
-       id="text6685"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6687"
-         x="572.92041"
-         y="458.98471">Jun-Ikkyu</tspan><tspan
-         sodipodi:role="line"
-         x="572.92041"
-         y="476.48471"
-         id="tspan4985">Pre-1st</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
        x="572.60541"
-       y="526.62433"
+       y="390.62433"
        id="text6689"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6691"
          x="572.60541"
-         y="526.62433">Ikkyu</tspan><tspan
+         y="390.62433">Ikkyu</tspan><tspan
          sodipodi:role="line"
          x="572.60541"
-         y="544.12433"
+         y="408.12433"
          id="tspan4987">1st</tspan></text>
     <text
        xml:space="preserve"
@@ -6542,6 +6508,6 @@
          sodipodi:role="line"
          id="tspan4991"
          x="492.95444"
-         y="649.84259"></tspan></text>
+         y="649.84259" /></text>
   </g>
 </svg>

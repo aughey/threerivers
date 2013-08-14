@@ -14,7 +14,7 @@
    height="765"
    id="svg3089"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="RecordOfCourses.svg"
    enable-background="new">
   <defs
@@ -28,15 +28,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="423.84167"
-     inkscape:cy="653.17925"
+     inkscape:cy="596.03639"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      units="in"
-     inkscape:window-width="1141"
-     inkscape:window-height="780"
+     inkscape:window-width="1591"
+     inkscape:window-height="935"
      inkscape:window-x="20"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
@@ -177,7 +177,7 @@
            height="45.456863"
            x="539.42145"
            y="111.4313" /></flowRegion><flowPara
-         id="flowPara6321">RECORD OF COURSES</flowPara></flowRoot>    <path
+         id="flowPara6321">RECORD OF COURSES &amp; SEMINARS ATTENDED</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 540,157.5 0,67.5"
        id="path6323"
@@ -230,7 +230,7 @@
          sodipodi:role="line"
          id="tspan6341"
          x="835.39618"
-         y="195.60599">Organizer</tspan></text>
+         y="195.60599">Description</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect3005-3"
@@ -295,7 +295,7 @@
            height="45.456863"
            x="539.42145"
            y="111.4313" /></flowRegion><flowPara
-         id="flowPara6321-0">RECORD OF COURSES</flowPara></flowRoot>    <path
+         id="flowPara6321-0">RECORD OF COURSES &amp; SEMINARS ATTENDED</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        d="m 112.5,157.5 0,67.5"
        id="path6323-2"
@@ -348,7 +348,7 @@
          sodipodi:role="line"
          id="tspan6341-9"
          x="407.89618"
-         y="195.60599">Organizer</tspan></text>
+         y="195.60599">Description</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
