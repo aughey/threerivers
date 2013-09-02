@@ -15,7 +15,7 @@
    id="svg3089"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Page1.svg"
+   sodipodi:docname="template.svg"
    enable-background="new">
   <defs
      id="defs3091" />
@@ -180,7 +180,7 @@
          d="m 101.25,33.75 22.5,0"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         d="m 123.75,33.75 a 11.25,11.25 0 1 1 -22.5,0 11.25,11.25 0 1 1 22.5,0 z"
+         d="m 123.75,33.75 c 0,6.213203 -5.0368,11.25 -11.25,11.25 -6.2132,0 -11.25,-5.036797 -11.25,-11.25 0,-6.213203 5.0368,-11.25 11.25,-11.25 6.2132,0 11.25,5.036797 11.25,11.25 z"
          sodipodi:ry="11.25"
          sodipodi:rx="11.25"
          sodipodi:cy="33.75"
@@ -354,7 +354,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Watermark"
-     style="opacity:0.12264153;display:none"
+     style="opacity:0.12264153;display:inline"
      sodipodi:insensitive="true">
     <g
        id="g5873"
