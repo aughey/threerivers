@@ -15,7 +15,7 @@
    id="svg3089"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Page1.svg"
+   sodipodi:docname="template.svg"
    enable-background="new">
   <defs
      id="defs3091" />
@@ -30,7 +30,7 @@
      inkscape:cx="345.22979"
      inkscape:cy="418.75107"
      inkscape:document-units="in"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer9"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -130,190 +130,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Layer">
-    <g
-       id="g19117"
-       transform="translate(12.114563,146.10544)">
-      <rect
-         transform="scale(1,-1)"
-         y="-461.25"
-         x="506.25"
-         height="450"
-         width="337.5"
-         id="rect3005"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6621"
-         d="m 506.25,56.25 337.5,0"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6623"
-         d="m 506.25,123.75 337.5,0"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6625"
-         d="m 506.25,191.25 337.5,0"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6627"
-         d="m 506.25,258.75 337.5,0"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6629"
-         d="m 506.25,326.25 337.5,0"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6631"
-         d="m 506.25,393.75 337.5,0"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6633"
-         d="m 573.75,11.25 0,450"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6635"
-         d="m 663.75,11.25 0,450"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6637"
-         d="m 753.75,11.25 0,450"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text6639"
-         y="29.828156"
-         x="542.55591"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-         xml:space="preserve"><tspan
-           y="29.828156"
-           x="542.55591"
-           id="tspan6641"
-           sodipodi:role="line">Dan</tspan><tspan
-           id="tspan6643"
-           y="47.328156"
-           x="542.55591"
-           sodipodi:role="line">Rank</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6645"
-         y="30.227158"
-         x="620.49811"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-         xml:space="preserve"><tspan
-           y="30.227158"
-           x="620.49811"
-           id="tspan6647"
-           sodipodi:role="line">Date of</tspan><tspan
-           id="tspan6649"
-           y="47.727158"
-           x="620.49811"
-           sodipodi:role="line">Examination</tspan></text>
-      <flowRoot
-         transform="translate(-33.75,-101.72715)"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-         id="flowRoot6651"
-         xml:space="preserve"><flowRegion
-           id="flowRegion6653"><rect
-             style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
-             y="118.50237"
-             x="702.05603"
-             height="34.345188"
-             width="80.812202"
-             id="rect6655" /></flowRegion><flowPara
-           id="flowPara6657">Location of Examination</flowPara></flowRoot>      <flowRoot
-         transform="translate(-33.75,-101.81115)"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-         id="flowRoot6659"
-         xml:space="preserve"><flowRegion
-           id="flowRegion6661"><rect
-             style="fill:#000000;fill-opacity:1"
-             y="118.50237"
-             x="790.94946"
-             height="35.355339"
-             width="82.832512"
-             id="rect6663" /></flowRegion><flowPara
-           id="flowPara6665"><flowSpan
-   id="flowSpan6667"
-   style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">Authorized</flowSpan> Examinator</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
-         id="text6669"
-         y="96.003662"
-         x="539.13544"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-         xml:space="preserve"><tspan
-           y="96.003662"
-           x="539.13544"
-           id="tspan6671"
-           sodipodi:role="line">Shodan</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6673"
-         y="162.73465"
-         x="538.85541"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-         xml:space="preserve"><tspan
-           y="162.73465"
-           x="538.85541"
-           id="tspan6675"
-           sodipodi:role="line">Nidan</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6677"
-         y="232.39456"
-         x="539.13544"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-         xml:space="preserve"><tspan
-           y="232.39456"
-           x="539.13544"
-           id="tspan6679"
-           sodipodi:role="line">Sandan</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6681"
-         y="299.08493"
-         x="539.35242"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-         xml:space="preserve"><tspan
-           y="299.08493"
-           x="539.35242"
-           id="tspan6683"
-           sodipodi:role="line">Yodan</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6685"
-         y="363.73471"
-         x="539.17041"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-         xml:space="preserve"><tspan
-           y="363.73471"
-           x="539.17041"
-           id="tspan6687"
-           sodipodi:role="line">Godan</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6689"
-         y="431.37433"
-         x="538.85541"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
-         xml:space="preserve"><tspan
-           y="431.37433"
-           x="538.85541"
-           id="tspan6691"
-           sodipodi:role="line">Rokodan</tspan></text>
-    </g>
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
@@ -538,7 +354,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Watermark"
-     style="opacity:0.12264153;display:inline"
+     style="opacity:0.12264153;display:none"
      sodipodi:insensitive="true">
     <g
        id="g5873"
