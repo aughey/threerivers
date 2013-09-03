@@ -15,7 +15,7 @@
    id="svg3089"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="template.svg"
+   sodipodi:docname="Page3.svg"
    enable-background="new">
   <defs
      id="defs3091" />
@@ -27,16 +27,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="560.22979"
+     inkscape:cx="448.80122"
      inkscape:cy="395.89393"
      inkscape:document-units="in"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g8014"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      units="in"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-width="2560"
+     inkscape:window-height="1418"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -126,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -341,6 +341,17 @@
            y="430.62433"
            x="448.85541"
            sodipodi:role="line">1st</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6689-4"
+         y="468.54257"
+         x="444.62323"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:0.49206351;stroke:none;display:inline;font-family:Aurulent Sans;-inkscape-font-specification:Aurulent Sans"
+         xml:space="preserve"><tspan
+           id="tspan4987-1"
+           y="468.54257"
+           x="444.62323"
+           sodipodi:role="line">Notes:</tspan></text>
     </g>
   </g>
   <g

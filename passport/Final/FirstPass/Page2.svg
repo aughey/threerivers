@@ -30,13 +30,13 @@
      inkscape:cx="335.41797"
      inkscape:cy="366.72821"
      inkscape:document-units="in"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g5973"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      units="in"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-width="2560"
+     inkscape:window-height="1418"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -126,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -271,7 +271,7 @@
            y="627.15649"
            x="413.2995"
            id="tspan6675-5"
-           sodipodi:role="line">KyuKyu</tspan><tspan
+           sodipodi:role="line">KuKyu</tspan><tspan
            id="tspan4941"
            y="644.65649"
            x="413.2995"
@@ -433,7 +433,7 @@
          d="m 101.25,33.75 22.5,0"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         d="m 123.75,33.75 a 11.25,11.25 0 1 1 -22.5,0 11.25,11.25 0 1 1 22.5,0 z"
+         d="m 123.75,33.75 c 0,6.213203 -5.0368,11.25 -11.25,11.25 -6.2132,0 -11.25,-5.036797 -11.25,-11.25 0,-6.213203 5.0368,-11.25 11.25,-11.25 6.2132,0 11.25,5.036797 11.25,11.25 z"
          sodipodi:ry="11.25"
          sodipodi:rx="11.25"
          sodipodi:cy="33.75"
