@@ -14,18 +14,18 @@
   </plugin>
   <plugin class="org.pdfsam.plugin.merge.GUI.MergeMainGUI" name="Merge/Extract">
     <filelist>
-      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\First Side\Page1.pdf" pageselection="All"/>
-      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\Second Side\Page1.pdf" pageselection="All"/>
-      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\First Side\Page2.pdf" pageselection="All"/>
-      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\Second Side\Page2.pdf" pageselection="All"/>
-      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\First Side\Page3.pdf" pageselection="All"/>
-      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\Second Side\Page3.pdf" pageselection="All"/>
-      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\First Side\Page4.pdf" pageselection="All"/>
-      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\Second Side\Page4.pdf" pageselection="All"/>
       <file name="C:\sandbox\threerivers\passport\Final Two Per Page\First Side\Page5.pdf" pageselection="All"/>
       <file name="C:\sandbox\threerivers\passport\Final Two Per Page\Second Side\Page5.pdf" pageselection="All"/>
+      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\First Side\Page4.pdf" pageselection="All"/>
+      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\Second Side\Page4.pdf" pageselection="All"/>
+      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\First Side\Page3.pdf" pageselection="All"/>
+      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\Second Side\Page3.pdf" pageselection="All"/>
+      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\First Side\Page2.pdf" pageselection="All"/>
+      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\Second Side\Page2.pdf" pageselection="All"/>
+      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\First Side\Page1.pdf" pageselection="All"/>
+      <file name="C:\sandbox\threerivers\passport\Final Two Per Page\cover.pdf" pageselection="All"/>
     </filelist>
-    <destination value=""/>
+    <destination value="C:\sandbox\threerivers\passport\Final Two Per Page\full_merge.pdf"/>
     <overwrite value="true"/>
     <merge_type value="false"/>
     <compressed value="true"/>
