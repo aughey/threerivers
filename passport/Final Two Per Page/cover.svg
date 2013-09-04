@@ -27,10 +27,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="372.90581"
-     inkscape:cy="674.92667"
+     inkscape:cx="257.90581"
+     inkscape:cy="332.78381"
      inkscape:document-units="in"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g5697-2"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -183,7 +183,7 @@
          sodipodi:cy="387.05573"
          sodipodi:cx="149.88454"
          id="path3932"
-         style="fill:#000000;fill-opacity:1;stroke:#00006e;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:type="arc" />
       <flowRoot
          transform="translate(-136.37059,-313.14729)"
@@ -353,7 +353,7 @@
          sodipodi:cy="387.05573"
          sodipodi:cx="149.88454"
          id="path3932-2"
-         style="fill:#000000;fill-opacity:1;stroke:#00006e;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:type="arc" />
       <flowRoot
          transform="translate(-136.37059,-313.14729)"
